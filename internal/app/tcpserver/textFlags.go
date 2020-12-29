@@ -1,10 +1,10 @@
 package tcpserver
 
 import (
+	"kitKat/internal/app/models"
+	"kitKat/internal/app/utils"
 	"log"
 	"net"
-	"netcat/internal/app/models"
-	"netcat/internal/app/utils"
 	"regexp"
 	"sort"
 	"strconv"

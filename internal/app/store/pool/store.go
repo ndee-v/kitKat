@@ -1,9 +1,9 @@
 package pool
 
 import (
+	"kitKat/internal/app/models"
+	"kitKat/internal/app/store"
 	"net"
-	"netcat/internal/app/models"
-	"netcat/internal/app/store"
 )
 
 // Repo ...

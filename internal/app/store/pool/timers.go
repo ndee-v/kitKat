@@ -3,9 +3,9 @@ package pool
 import (
 	"errors"
 	"fmt"
+	"kitKat/internal/app/models"
 	"log"
 	"net"
-	"netcat/internal/app/models"
 	"time"
 )
 

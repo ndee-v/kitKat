@@ -3,7 +3,7 @@ package tcpserver
 import (
 	"errors"
 	"fmt"
-	"netcat/internal/app/models"
+	"kitKat/internal/app/models"
 	"sort"
 	"strconv"
 

@@ -1,8 +1,10 @@
 package pool
 
 import (
-	"netcat/internal/app/models"
-	"netcat/internal/app/store"
+	"kitKat/internal/app/models"
+	"kitKat/internal/app/store"
+	// "netcat/internal/app/models"
+	// "netcat/internal/app/store"
 )
 
 // SendMsg ...

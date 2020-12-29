@@ -2,9 +2,9 @@ package tcpserver
 
 import (
 	"bufio"
+	"kitKat/internal/app/models"
+	"kitKat/internal/app/utils"
 	"net"
-	"netcat/internal/app/models"
-	"netcat/internal/app/utils"
 	"strings"
 	"time"
 )
