@@ -1,10 +1,10 @@
 package testhistory_test
 
 import (
+	"kitKat/internal/app/models"
+	testhistory "kitKat/internal/app/store/testHistory"
+	"kitKat/internal/app/tcpserver"
 	"log"
-	"netcat/internal/app/models"
-	testhistory "netcat/internal/app/store/testHistory"
-	"netcat/internal/app/tcpserver"
 	"os"
 	"testing"
 )

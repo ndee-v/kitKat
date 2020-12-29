@@ -1,10 +1,10 @@
 package onlinehistory_test
 
 import (
+	"kitKat/internal/app/models"
+	onlinehistory "kitKat/internal/app/store/onlineHistory"
+	"kitKat/internal/app/tcpserver"
 	"log"
-	"netcat/internal/app/models"
-	onlinehistory "netcat/internal/app/store/onlineHistory"
-	"netcat/internal/app/tcpserver"
 	"os"
 	"testing"
 )
